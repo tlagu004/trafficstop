@@ -1,3 +1,4 @@
+![Flow](flow.png)
 # 🚦 Pico Traffic Light
 
 ## Project Description
